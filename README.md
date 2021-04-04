@@ -70,3 +70,6 @@ void loop()
   delay(200);
 }
 ```
+
+# Прокет
+https://www.tinkercad.com/things/5XuQvOjJWsq-stunning-wluff-kasi
